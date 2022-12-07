@@ -6,7 +6,11 @@ Results: Answer the following questions in complete and coherent sentences.
 
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?  
 1. The Launch was most successful in May
-2. There is no Canceallation data in Oct
-What can you conclude about the Outcomes based on Goals? Highest success rate in in May
+2. There is no Cancellation data in Oct
+
+What can you conclude about the Outcomes based on Goals? 
+1. Highest success rate in in May
+
 What are some limitations of this dataset? The cancellation data in October is limiting 
+
 What are some other possible tables and/or graphs that we could create? Box Chart, Pie Chart, Scatter Chart
