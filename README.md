@@ -1,4 +1,4 @@
-# Kickstarter-Analysis# Kickstarter-Analysis
+# Kickstarter-Analysis
 Overview of Project: To asses how different campaigns fared in relation to their launch dates and their funding goals
 Analysis and Challenges: Line Charts were created to better visualize the success and fialure of multiple campaigns. 
 
